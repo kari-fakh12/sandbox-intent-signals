@@ -1,0 +1,33 @@
+# AI-agent and dev-tool companies with a public job board.
+# Format: <board> <slug> <Company name>
+# board is greenhouse, lever or ashby. Every slug here returned 200 with open jobs
+# from the public board API when this list was made (2026-09-21).
+# Left out on purpose: Unikraft's public customers (Prisma, Browser Use, FlutterFlow,
+# TinyFish) and sandbox vendors (E2B, Daytona, Modal, Fly.io, Vercel).
+
+greenhouse anthropic Anthropic
+greenhouse scaleai Scale AI
+greenhouse gleanwork Glean
+greenhouse togetherai Together AI
+greenhouse stackblitz StackBlitz
+ashby replit Replit
+ashby cursor Cursor
+ashby langchain LangChain
+ashby cognition Cognition
+ashby sierra Sierra
+ashby harvey Harvey
+ashby perplexity Perplexity
+ashby supabase Supabase
+ashby factory Factory
+ashby poolside Poolside
+ashby browserbase Browserbase
+ashby dust Dust
+ashby n8n n8n
+ashby relevanceai Relevance AI
+ashby baseten Baseten
+ashby decagon Decagon
+ashby mintlify Mintlify
+ashby letta Letta
+ashby braintrust Braintrust
+ashby lovable Lovable
+ashby cohere Cohere
