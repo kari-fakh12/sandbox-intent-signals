@@ -1,5 +1,7 @@
 # sandbox-intent-signals
 
+Live page with the results: https://sandbox-signals.vercel.app
+
 I built this for my application to the GTM Engineer role at Unikraft. It is how I
 would find companies that need fast sandboxes: teams running AI agents, code
 execution or headless browsers, who need a clean, isolated machine per task and
@@ -72,6 +74,10 @@ only shows new ones. Use `--no-dedupe` to see everything. `--help` lists the res
 The workflow in `.github/workflows/daily.yml` runs it every morning and commits the
 results. If code search fails with the built-in Actions token, add a read-only
 personal token as a `SEARCH_TOKEN` secret.
+
+## The page
+
+`python3 build_page.py --csv examples/sample-run.csv` builds `site/index.html`, the page that's live on Vercel. Every company links to its evidence, and you can search or filter by signal.
 
 ## What I would add with access to Unikraft's data
 
