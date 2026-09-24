@@ -4,6 +4,7 @@ agenta
 agenticsfoundation
 agno
 anthropic
+apodex
 arc53
 arcboxlabs
 arealproject
@@ -20,6 +21,7 @@ cognition
 cohere
 cua
 cursor
+dataintelligencelabhku
 datastax
 daydreams
 decagon
@@ -40,6 +42,7 @@ kubiks
 langchain
 lightdash
 llamaindex
+llmkira
 lovable
 maitrixorg
 mastra
@@ -48,6 +51,7 @@ mintlify
 n8n
 nousresearch
 novasky
+npv
 openai
 opencmit
 openthoughts
@@ -56,6 +60,7 @@ perplexity
 pipeshubtheopensourceworkplaceai
 potpieai
 pragmaticml
+promptfoo
 raycast
 relevanceai
 replit
@@ -85,6 +90,7 @@ twenty
 upsonic
 verifywise
 wasmer
+xai
 xlanglab
 xyzailab
 yworksgmbh
