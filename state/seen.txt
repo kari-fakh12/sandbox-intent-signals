@@ -16,6 +16,7 @@ braintrust
 browserbase
 bytedanceinc
 camelaiorg
+cap
 celestoai
 cognition
 cohere
@@ -23,6 +24,7 @@ cua
 cursor
 dataintelligencelabhku
 datastax
+davis7
 daydreams
 decagon
 dust
@@ -32,6 +34,7 @@ futureagi
 glean
 google
 grills
+hackerai
 harbor
 harvey
 huggingface
@@ -45,9 +48,11 @@ llamaindex
 llmkira
 lovable
 maitrixorg
+manexaigmbh
 mastra
 mathinc
 mintlify
+mistralai
 n8n
 nousresearch
 novasky
@@ -56,7 +61,9 @@ openai
 opencmit
 openthoughts
 oppopersonalai
+paperclip
 perplexity
+pipedream
 pipeshubtheopensourceworkplaceai
 potpieai
 pragmaticml
@@ -71,6 +78,7 @@ sambanova
 scaleai
 sentientfoundation
 sierra
+sim
 skywork
 sourcegraph
 struktoai
@@ -89,6 +97,7 @@ transluce
 twenty
 upsonic
 verifywise
+voltagent
 wasmer
 xai
 xlanglab
