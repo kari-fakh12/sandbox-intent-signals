@@ -54,6 +54,7 @@ mathinc
 mintlify
 mistralai
 n8n
+nebius
 nousresearch
 novasky
 npv
@@ -69,6 +70,7 @@ potpieai
 pragmaticml
 promptfoo
 raycast
+recaredeutschlandgmbh
 relevanceai
 replit
 rhebogmbh
