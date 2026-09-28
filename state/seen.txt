@@ -1,3 +1,4 @@
+0g
 21stlabs
 ag2ai
 agenta
@@ -22,6 +23,7 @@ cognition
 cohere
 cua
 cursor
+datadog
 dataintelligencelabhku
 datastax
 davis7
