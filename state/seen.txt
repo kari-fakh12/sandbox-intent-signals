@@ -41,6 +41,7 @@ harbor
 harvey
 huggingface
 intelligentinternet
+jobgether
 khojai
 kortix
 kubiks
