@@ -32,6 +32,7 @@ decagon
 dust
 dynamiq
 factory
+firecrawl
 futureagi
 glean
 google
@@ -44,6 +45,7 @@ intelligentinternet
 jobgether
 khojai
 kortix
+kraken
 kubiks
 langchain
 lightdash
@@ -73,6 +75,7 @@ potpieai
 pragmaticml
 promptfoo
 raycast
+reactnativevibecode
 recaredeutschlandgmbh
 relevanceai
 replit
