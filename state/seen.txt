@@ -4,6 +4,7 @@ ag2ai
 agenta
 agenticsfoundation
 agno
+amika
 anthropic
 apodex
 arc53
@@ -21,6 +22,7 @@ cap
 celestoai
 cognition
 cohere
+computesdk
 cua
 cursor
 datadog
@@ -41,6 +43,8 @@ hackerai
 harbor
 harvey
 huggingface
+inbound
+infisical
 intelligentinternet
 jobgether
 khojai
@@ -65,9 +69,11 @@ novasky
 npv
 openai
 opencmit
+openrouterlabs
 openthoughts
 oppopersonalai
 paperclip
+pensar
 perplexity
 pipedream
 pipeshubtheopensourceworkplaceai
@@ -82,6 +88,7 @@ replit
 rhebogmbh
 rivet
 rocketrideorg
+roomote
 sambanova
 scaleai
 sentientfoundation
@@ -97,12 +104,15 @@ sweagent
 teahousestudios
 tealtiger
 techbizglobalgmbh
+tella
 tencentcloud
 tencentcloudadp
 togetherai
 touchdownlabs
+tracerootai
 transluce
 twenty
+twill
 upsonic
 verifywise
 voltagent
