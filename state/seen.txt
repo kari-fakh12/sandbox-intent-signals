@@ -31,6 +31,7 @@ datastax
 davis7
 daydreams
 decagon
+docker
 dust
 dynamiq
 factory
@@ -52,6 +53,7 @@ kortix
 kraken
 kubiks
 langchain
+langdock
 lightdash
 llamaindex
 llmkira
@@ -92,6 +94,7 @@ roomote
 sambanova
 scaleai
 sentientfoundation
+sentinellabs
 sierra
 sim
 skywork
