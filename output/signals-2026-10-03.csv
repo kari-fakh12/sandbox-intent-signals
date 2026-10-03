@@ -1,0 +1,2 @@
+found,company,score,signals,why,evidence_url,more_evidence,website,sources
+2026-10-03,PipesHub - The Open Source Context Layer for AI Agents,60,competitor_sdk;ai_agent,+40 pipeshub-ai/pipeshub-ai imports the E2B SDK | +20 GitHub profile or repo describes AI agents,https://github.com/pipeshub-ai/pipeshub-ai/blob/b573291fb29b236b246af6b4e5d6225621dab03b/backend/python/app/agent_loop_lib/sandbox/coding/factories/e2b.py,https://github.com/pipeshub-ai,https://pipeshub.com/,github
