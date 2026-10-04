@@ -1,0 +1,2 @@
+found,company,score,signals,why,evidence_url,more_evidence,website,sources
+2026-10-04,LangGenius,60,competitor_sdk;ai_agent,+40 langgenius/dify imports the E2B SDK | +20 GitHub profile or repo describes AI agents,https://github.com/langgenius/dify/blob/1cbb6dc385878c950e2252f17f1954211fd1e763/dify-agent/src/dify_agent/runtime_backend/e2b.py,https://github.com/langgenius,https://dify.ai,github

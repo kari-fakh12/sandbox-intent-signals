@@ -54,6 +54,7 @@ kraken
 kubiks
 langchain
 langdock
+langgenius
 lightdash
 llamaindex
 llmkira
