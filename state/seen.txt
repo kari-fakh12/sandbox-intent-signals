@@ -21,6 +21,7 @@ camelaiorg
 cap
 celestoai
 chainguard
+coder
 cognition
 cohere
 computesdk
@@ -71,6 +72,7 @@ nebius
 nousresearch
 novasky
 npv
+omnirushai
 openai
 opencmit
 openrouterlabs
@@ -101,6 +103,7 @@ sentinellabs
 sierra
 sim
 skywork
+sona
 sourcegraph
 struktoai
 supabase
