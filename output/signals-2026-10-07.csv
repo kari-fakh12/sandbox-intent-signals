@@ -1,0 +1,4 @@
+found,company,score,signals,why,evidence_url,more_evidence,website,sources
+2026-10-07,Manufact,60,competitor_sdk;ai_agent,+40 mcp-use/mcp-use imports the E2B SDK | +20 GitHub profile or repo describes AI agents,https://github.com/mcp-use/mcp-use/blob/56dbe75eb1d4a6758980c64510fc595b1b533c75/libraries/typescript/packages/client/package.json,https://github.com/mcp-use,https://manufact.com,github
+2026-10-07,Clariness,40,sandbox_job;recent_hiring,"+30 job ""AI Security Engineer (f/m/d)"" mentions sandbox | +10 posted ""AI Security Engineer (f/m/d)"" on 2026-10-06",https://www.arbeitnow.co.uk/jobs/companies/clariness/ai-security-engineer-london-16660,,,arbeitnow
+2026-10-07,Prime Intellect,40,competitor_sdk,+40 PrimeIntellect-ai/verifiers imports the E2B SDK,https://github.com/PrimeIntellect-ai/verifiers/blob/1505c3667ebf5af17569e9c8b9a35b2a75f3bb30/verifiers/v1/runtimes/e2b.py,,https://primeintellect.ai/,github

@@ -21,6 +21,7 @@ camelaiorg
 cap
 celestoai
 chainguard
+clariness
 coder
 cognition
 cohere
@@ -63,6 +64,7 @@ llmkira
 lovable
 maitrixorg
 manexaigmbh
+manufact
 mastra
 mathinc
 mintlify
@@ -86,6 +88,7 @@ pipeshubtheopensourcecontextlayerforaiagents
 pipeshubtheopensourceworkplaceai
 potpieai
 pragmaticml
+primeintellect
 promptfoo
 raycast
 reactnativevibecode
