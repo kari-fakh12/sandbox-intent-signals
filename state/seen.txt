@@ -37,9 +37,12 @@ decagon
 docker
 dust
 dynamiq
+elevenlabs
+emailtowebhook
 factory
 firecrawl
 futureagi
+ginlixai
 glean
 google
 grills
@@ -121,6 +124,7 @@ tencentcloud
 tencentcloudadp
 themarinproject
 togetherai
+topoteretes
 touchdownlabs
 tracerootai
 transluce
