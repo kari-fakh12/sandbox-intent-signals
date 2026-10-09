@@ -97,6 +97,7 @@ raycast
 reactnativevibecode
 recaredeutschlandgmbh
 relevanceai
+remanence
 replit
 rhebogmbh
 rivet
