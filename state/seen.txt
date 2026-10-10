@@ -26,6 +26,7 @@ coder
 cognition
 cohere
 computesdk
+coreweaveu
 cua
 cursor
 datadog
