@@ -1,9 +1,11 @@
 0g
 21stlabs
+adthena
 ag2ai
 agenta
 agenticsfoundation
 agno
+alephalpha
 amika
 anthropic
 apodex
@@ -17,6 +19,7 @@ baseten
 braintrust
 browserbase
 bytedanceinc
+callosum
 camelaiorg
 cap
 celestoai
@@ -66,6 +69,7 @@ lightdash
 llamaindex
 llmkira
 lovable
+lumaai
 maitrixorg
 manexaigmbh
 manufact
