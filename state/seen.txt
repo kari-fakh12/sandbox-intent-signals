@@ -25,6 +25,7 @@ cap
 celestoai
 chainguard
 clariness
+clickhouse
 coder
 cognition
 cohere
@@ -78,6 +79,7 @@ mathinc
 mintlify
 mistralai
 n8n
+namespace
 nebius
 nousresearch
 novasky
@@ -122,6 +124,7 @@ supabase
 superagent
 superagenticai
 sweagent
+tavily
 teahousestudios
 tealtiger
 techbizglobalgmbh
