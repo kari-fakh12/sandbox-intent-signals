@@ -9,6 +9,7 @@ alephalpha
 amika
 anthropic
 apodex
+appimage
 arc53
 arcboxlabs
 arealproject

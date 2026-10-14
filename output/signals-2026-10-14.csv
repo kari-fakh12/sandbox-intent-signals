@@ -1,0 +1,2 @@
+found,company,score,signals,why,evidence_url,more_evidence,website,sources
+2026-10-14,AppImage,40,competitor_sdk,+40 AppImage/appimage.github.io imports the Daytona SDK,https://github.com/AppImage/appimage.github.io/blob/150884dc70cee0f60eff29cf1b37e34af948516c/database/Concrete/package.json,,https://appimage.org/,github
