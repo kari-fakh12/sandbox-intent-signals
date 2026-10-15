@@ -5,6 +5,7 @@ ag2ai
 agenta
 agenticsfoundation
 agno
+aibuilderclub
 alephalpha
 amika
 anthropic
@@ -14,6 +15,7 @@ arc53
 arcboxlabs
 arealproject
 arizeai
+atira
 autogpt
 azuresamples
 baseten
@@ -47,6 +49,7 @@ elevenlabs
 emailtowebhook
 factory
 firecrawl
+firmus
 futureagi
 ginlixai
 glean
@@ -93,6 +96,7 @@ openthoughts
 oppopersonalai
 paperclip
 pensar
+perk
 perplexity
 pipedream
 pipeshubtheopensourcecontextlayerforaiagents
