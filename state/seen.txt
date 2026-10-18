@@ -31,6 +31,7 @@ checkatrade
 clariness
 clickhouse
 coder
+codewithantonio
 cognition
 cohere
 computesdk
@@ -44,6 +45,7 @@ davis7
 daydreams
 decagon
 docker
+doctolib
 dust
 dynamiq
 elevenlabs
@@ -152,6 +154,7 @@ twill
 upsonic
 verifywise
 voltagent
+waracle
 wasmer
 xai
 xlanglab
