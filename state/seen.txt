@@ -39,6 +39,7 @@ coreweaveu
 cua
 cursor
 datadog
+dataelem
 dataintelligencelabhku
 datastax
 davis7
@@ -63,6 +64,7 @@ harbor
 harvey
 hud
 huggingface
+iflytek
 inbound
 infisical
 intelligentinternet

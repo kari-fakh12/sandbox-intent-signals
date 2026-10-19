@@ -1,0 +1,3 @@
+found,company,score,signals,why,evidence_url,more_evidence,website,sources
+2026-10-19,iFLYTEK,60,competitor_sdk;ai_agent,+40 iflytek/astron-agent imports the E2B SDK | +20 GitHub profile or repo describes AI agents,https://github.com/iflytek/astron-agent/blob/5e27fc7afc598c3b8a30694288671584118b38dd/core/agent/service/plugin/skill_sandbox.py,https://github.com/iflytek,https://opensource.iflytek.com,github
+2026-10-19,DataElem,40,competitor_sdk,+40 dataelement/bisheng imports the E2B SDK,https://github.com/dataelement/bisheng/blob/4218ba7c138a90764a304681c3d8a5875b2c9c1a/src/backend/bisheng_langchain/gpts/tools/code_interpreter/e2b_executor.py,,dataelem.com,github
