@@ -1,0 +1,3 @@
+found,company,score,signals,why,evidence_url,more_evidence,website,sources
+2026-10-21,Circuithub,60,sandbox_job;ai_agent;recent_hiring,"+30 job ""Software Engineer, Applied AI"" mentions sandbox | +20 job ""Software Engineer, Applied AI"" describes an AI-agent product | +10 posted ""Software Engineer, Applied AI"" on 2026-10-20",https://www.arbeitnow.com/jobs/companies/circuithub/remote-software-engineer-applied-ai-430890,,,arbeitnow
+2026-10-21,NVIDIA Research Projects,40,competitor_sdk,+40 NVlabs/QeRL imports the E2B SDK,https://github.com/NVlabs/QeRL/blob/31e86dba3da30924b37c29641dc6c87fa017a000/openr1_tool/e2b_router.py,,http://research.nvidia.com,github

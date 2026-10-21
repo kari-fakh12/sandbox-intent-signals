@@ -28,6 +28,7 @@ cap
 celestoai
 chainguard
 checkatrade
+circuithub
 clariness
 clickhouse
 coder
@@ -97,6 +98,7 @@ nebius
 nousresearch
 novasky
 npv
+nvidiaresearchprojects
 omnirushai
 openai
 opencmit
