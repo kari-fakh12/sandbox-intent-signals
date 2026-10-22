@@ -46,6 +46,7 @@ datastax
 davis7
 daydreams
 decagon
+deliveroo
 docker
 doctolib
 dust
