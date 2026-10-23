@@ -81,6 +81,7 @@ langgenius
 lightdash
 llamaindex
 llmkira
+localstack
 lovable
 lumaai
 maitrixorg
