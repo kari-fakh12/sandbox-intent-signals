@@ -53,7 +53,9 @@ dust
 dynamiq
 elevenlabs
 emailtowebhook
+evo
 factory
+fiblabtsinghuauniversity
 firecrawl
 firmus
 futureagi
@@ -100,6 +102,7 @@ nebius
 nousresearch
 novasky
 npv
+nvidianemo
 nvidiaresearchprojects
 omnirushai
 openai
@@ -111,6 +114,7 @@ paperclip
 pensar
 perk
 perplexity
+pigment
 pipedream
 pipeshubtheopensourcecontextlayerforaiagents
 pipeshubtheopensourceworkplaceai
