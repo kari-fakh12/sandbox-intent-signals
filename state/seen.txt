@@ -19,6 +19,7 @@ atira
 autogpt
 azuresamples
 baseten
+boundary
 braintrust
 browserbase
 bytedanceinc
@@ -91,14 +92,17 @@ manexaigmbh
 manufact
 mastra
 mathinc
+meritsystems
 mindroomai
 mintlify
+miromind
 mistralai
 moneybox
 moss
 n8n
 namespace
 nebius
+notte
 nousresearch
 novasky
 npv
@@ -158,6 +162,7 @@ togetherai
 topoteretes
 touchdownlabs
 tracerootai
+tradinggoose
 transluce
 twenty
 twill

@@ -1,0 +1,6 @@
+found,company,score,signals,why,evidence_url,more_evidence,website,sources
+2026-10-27,Boundary,40,competitor_sdk,+40 BoundaryML/baml imports the E2B SDK,https://github.com/BoundaryML/baml/blob/3d20df898fbea29e24be06222aeee25ad48f8597/typescript2/app-website/package.json,,https://boundaryml.com,github
+2026-10-27,Merit Systems,40,competitor_sdk,+40 Merit-Systems/echo imports the E2B SDK,https://github.com/Merit-Systems/echo/blob/76d9f1a3d83704b8e8a4188b1657bb7fd7e39989/packages/app/server/package.json,,https://merit.systems,github
+2026-10-27,MiroMind,40,competitor_sdk,+40 MiroMindAI/MiroFlow imports the E2B SDK,https://github.com/MiroMindAI/MiroFlow/blob/fca7b4a7fda30e5a17b5c7b73d780738a925869f/src/tool/mcp_servers/python_server.py,,https://miromind.ai,github
+2026-10-27,Notte,40,competitor_sdk_example;ai_agent,+20 nottelabs/notte uses the E2B SDK in an example or integration | +20 GitHub profile or repo describes AI agents,https://github.com/nottelabs/notte/blob/52f9d9f1bc69076c0b2ec4611129f15e7ef7eb45/examples/e2b/main.py,https://github.com/nottelabs,https://www.notte.cc/,github
+2026-10-27,TradingGoose,40,competitor_sdk,+40 TradingGoose/TradingGoose-Studio imports the E2B SDK,https://github.com/TradingGoose/TradingGoose-Studio/blob/40d3bf440c88194b53835e1fce850d650639bcc4/apps/tradinggoose/package.json,,TradingGoose.ai,github
