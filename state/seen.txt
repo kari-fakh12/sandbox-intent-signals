@@ -1,6 +1,7 @@
 0g
 21stlabs
 adthena
+afkaiinc
 ag2ai
 agenta
 agenticsfoundation
@@ -31,6 +32,7 @@ chainguard
 checkatrade
 circuithub
 clariness
+clarinessgmbh
 clickhouse
 coder
 codewithantonio
@@ -38,6 +40,7 @@ cognition
 cohere
 computesdk
 coreweaveu
+crewai
 cua
 cursor
 datadog
@@ -67,6 +70,7 @@ grills
 hackerai
 harbor
 harvey
+hexa
 hud
 huggingface
 iflytek
@@ -131,6 +135,7 @@ reactnativevibecode
 recaredeutschlandgmbh
 relevanceai
 remanence
+remotewoman
 replit
 rhebogmbh
 rivet
