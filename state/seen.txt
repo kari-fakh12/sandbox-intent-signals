@@ -155,6 +155,7 @@ supabase
 superagent
 superagenticai
 sweagent
+taktile
 tavily
 teahousestudios
 tealtiger
