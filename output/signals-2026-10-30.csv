@@ -1,0 +1,4 @@
+found,company,score,signals,why,evidence_url,more_evidence,website,sources
+2026-10-30,CopilotKit,40,competitor_sdk,+40 CopilotKit/OpenTag imports the Daytona SDK,https://github.com/CopilotKit/OpenTag/blob/aa3d26c723d7141815d2f76c33cbeb4b8e72039a/agent/coding/sandbox.py,,https://copilotkit.ai,github
+2026-10-30,Neko Health,40,sandbox_job;recent_hiring,"+30 job ""Principal Engineer - Platform"" mentions sandbox | +10 posted ""Director of Engineering - Platform"" on 2026-10-29",https://www.arbeitnow.co.uk/jobs/companies/neko-health/principal-engineer-platform-london-254042,https://www.arbeitnow.co.uk/jobs/companies/neko-health/director-of-engineering-platform-london-378937,,arbeitnow
+2026-10-30,Pydantic,40,competitor_sdk,+40 pydantic/monty imports the Daytona SDK,https://github.com/pydantic/monty/blob/6129db98578d4e99b33bf3858856177e54104923/scripts/startup_performance.py,,https://pydantic.dev,github

@@ -39,6 +39,7 @@ codewithantonio
 cognition
 cohere
 computesdk
+copilotkit
 coreweaveu
 crewai
 cua
@@ -106,6 +107,7 @@ moss
 n8n
 namespace
 nebius
+nekohealth
 notte
 nousresearch
 novasky
@@ -130,6 +132,7 @@ potpieai
 pragmaticml
 primeintellect
 promptfoo
+pydantic
 raycast
 reactnativevibecode
 recaredeutschlandgmbh
