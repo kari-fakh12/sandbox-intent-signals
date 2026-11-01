@@ -79,6 +79,8 @@ inbound
 infisical
 intelligentinternet
 jobgether
+keinsaas
+kestratechnologies
 khojai
 kortix
 kraken
@@ -141,6 +143,7 @@ remanence
 remotewoman
 replit
 rhebogmbh
+ripple
 rivet
 rocketrideorg
 roomote
@@ -176,6 +179,7 @@ transluce
 twenty
 twill
 upsonic
+v7labscom
 verifywise
 voltagent
 waracle
