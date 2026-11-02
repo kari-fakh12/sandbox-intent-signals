@@ -122,6 +122,7 @@ opencmit
 openrouterlabs
 openthoughts
 oppopersonalai
+oura
 paperclip
 pensar
 perk
@@ -130,6 +131,7 @@ pigment
 pipedream
 pipeshubtheopensourcecontextlayerforaiagents
 pipeshubtheopensourceworkplaceai
+poolside
 potpieai
 pragmaticml
 primeintellect
@@ -147,6 +149,7 @@ ripple
 rivet
 rocketrideorg
 roomote
+rucdatalab
 sambanova
 scaleai
 sentientfoundation
