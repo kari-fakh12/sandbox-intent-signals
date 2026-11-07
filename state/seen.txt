@@ -138,6 +138,7 @@ pragmaticml
 primeintellect
 promptfoo
 pydantic
+qorelo
 raycast
 reactnativevibecode
 recaredeutschlandgmbh
