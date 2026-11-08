@@ -1,0 +1,2 @@
+found,company,score,signals,why,evidence_url,more_evidence,website,sources
+2026-11-08,traceroot,60,competitor_sdk;ai_agent,+40 traceroot-ai/traceroot imports the Daytona SDK | +20 GitHub profile or repo describes AI agents,https://github.com/traceroot-ai/traceroot/blob/82319ceb27bf70daa0490c29ce9791a09066054e/frontend/ee/agent/package.json,https://github.com/traceroot-ai,https://traceroot.ai,github
