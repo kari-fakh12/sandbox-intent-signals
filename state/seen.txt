@@ -71,6 +71,7 @@ grills
 hackerai
 harbor
 harvey
+hash
 hexa
 hud
 huggingface
