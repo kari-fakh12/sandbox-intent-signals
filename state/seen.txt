@@ -126,6 +126,7 @@ opencmit
 openrouterlabs
 openthoughts
 oppopersonalai
+orbital
 oura
 paperclip
 pensar
