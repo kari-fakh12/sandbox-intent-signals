@@ -89,6 +89,7 @@ khojai
 kortix
 kraken
 kubiks
+langbothq
 langchain
 langdock
 langgenius
@@ -186,12 +187,14 @@ traceroot
 tracerootai
 tradinggoose
 transluce
+triggerdev
 twenty
 twill
 uforce
 upsonic
 v7labscom
 verifywise
+vogel
 voltagent
 waracle
 wasmer
