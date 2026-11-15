@@ -121,6 +121,7 @@ novasky
 npv
 nvidianemo
 nvidiaresearchprojects
+omnigent
 omnirushai
 openai
 opencmit

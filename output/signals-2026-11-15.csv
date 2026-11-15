@@ -1,0 +1,2 @@
+found,company,score,signals,why,evidence_url,more_evidence,website,sources
+2026-11-15,omnigent,60,competitor_sdk;ai_agent,+40 omnigent-ai/omnigent imports the E2B SDK | +20 GitHub profile or repo describes AI agents,https://github.com/omnigent-ai/omnigent/blob/ce5f47b445663f743b0fa432dab75f7e7ccc6acd/omnigent/onboarding/sandboxes/e2b.py,https://github.com/omnigent-ai,https://omnigent.ai,github
