@@ -1,0 +1,2 @@
+found,company,score,signals,why,evidence_url,more_evidence,website,sources
+2026-11-16,Vstorm,60,competitor_sdk;ai_agent,+40 vstorm-co/agenticos imports the Daytona SDK | +20 GitHub profile or repo describes AI agents,https://github.com/vstorm-co/agenticos/blob/b045c8a8d5692b25982bbdb9512002a4130a1334/backend/app/services/sandbox_workspace.py,https://github.com/vstorm-co,vstorm.co,github
