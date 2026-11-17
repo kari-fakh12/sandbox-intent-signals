@@ -1,5 +1,6 @@
 0g
 21stlabs
+actcareers
 adthena
 afkaiinc
 ag2ai
@@ -20,6 +21,7 @@ atira
 autogpt
 azuresamples
 baseten
+blackforestlabs
 boundary
 braintrust
 browserbase
@@ -65,6 +67,7 @@ fiblabtsinghuauniversity
 firecrawl
 firmus
 futureagi
+getyourguide
 ginlixai
 gitlab
 glean
