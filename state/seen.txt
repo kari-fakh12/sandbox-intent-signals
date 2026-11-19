@@ -89,6 +89,7 @@ joko
 keinsaas
 kestratechnologies
 khojai
+kodus
 kortix
 kraken
 kubiks
@@ -102,6 +103,7 @@ llmkira
 localstack
 lovable
 lumaai
+lyceum
 maitrixorg
 manexaigmbh
 manufact
@@ -141,6 +143,7 @@ pigment
 pipedream
 pipeshubtheopensourcecontextlayerforaiagents
 pipeshubtheopensourceworkplaceai
+placedtechnologiesgmbh
 poolside
 potpieai
 pragmaticml
@@ -170,6 +173,7 @@ sim
 skywork
 sona
 sourcegraph
+spartacommodities
 struktoai
 supabase
 superagent
